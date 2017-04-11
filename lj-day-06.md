@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 06  
+
+  Week 2. Shits going pretty good, almost too good, I keep waiting to hit the wall. I'm sure its coming soon. Did some DOM manipulation today, I think I'm getting the hang of it. I had an awesome time writing the Java Script for the lab today, but I'm not looking forward to styling the thing. I really like figuring out how to make everything work, and writing the code, but I could give two shits about making it look pretty. I just don't have an eye for that kind of thing. I think I might hate it less if I had someone else doing the design and telling me what to make it look like.
