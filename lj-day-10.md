@@ -1,0 +1,3 @@
+#LJ CODE 201 - DAY 05  
+
+Dude. CSS is a bitch. I thought things were going good. Loving life, loving class, and then we have a freaking CSS lab. Okay, I'm excaggerating a bit, but damn. It all made sense in theory, and the little bit of CSS I wrote for the Salmon Cookies worked pretty well. But then I started this bastard of a lab. None of my floats wanted to line up, I couldn't get a single box where I wanted it. There seemed to be no rhyme or reason for the positioning of any single element on my page. Shit sucked. I'm think I'm going to use the extra credit lab for practice. Lord knows I need it. 
