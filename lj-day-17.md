@@ -1,0 +1,3 @@
+#LJ CODE 201 - DAY 17
+
+Today went well overall, although this morning was rather frustrating. I was trying to write a function that would allow the user to assign character attributes a value out of a pool of numbers. I went about it all wrong, trying to create a table with td's of drop down menus. It went like four loops deep, and broke my brain. Finally a different method was suggested, so I nuked my code and started over. Erasing code that I spent hours on kind of hurt, even if it was absolute shit. But once I started over things went pretty smoothly. I ran into a couple hiccups that Duncan helped me figure out. Got it all wired up, and now we have a working product again.
