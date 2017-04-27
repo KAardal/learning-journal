@@ -1,0 +1,3 @@
+#LJ CODE 201 - DAY 18
+
+The project is coming along pretty well. We have all the functionality done. And maybe add one more feature that I'm going to work on on my ferry rides. If it doesn't make it in, no worries. Now we just need to style the thing. Not gonna lie, that part has me a little stressed out. I think it's because I'm not very strong with CSS, so I feel kind of helpless if things aren't going smoothly. I'm not a huge fan of being dependent upon other people. Be I guess that's kind of the point of working with a team. So yeah, tomorrow is going to be a big CSS day, and hopefully we can get this thing all buttoned up.
